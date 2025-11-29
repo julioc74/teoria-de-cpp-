@@ -1,1 +1,1 @@
-# teoria-de-c++-
+#La teoria-de-c++ escrita en este repositorio-
